@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inkball.LevelTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-01-09T08:47:30" hostname="falgurt" time="0.005">
+  <properties/>
+  <testcase name="testConstructorHandlesInvalidBallColour()" classname="inkball.LevelTest" time="0.001"/>
+  <testcase name="testScoreIncreaseFromHole()" classname="inkball.LevelTest" time="0.001"/>
+  <testcase name="testGetScoreIncreaseModifier()" classname="inkball.LevelTest" time="0.0"/>
+  <testcase name="testGetSpawnInterval()" classname="inkball.LevelTest" time="0.001"/>
+  <testcase name="testInvalidLevelIndex()" classname="inkball.LevelTest" time="0.0"/>
+  <testcase name="testScoreDecreaseFromWrongHole()" classname="inkball.LevelTest" time="0.001"/>
+  <testcase name="testGetTimeLimit()" classname="inkball.LevelTest" time="0.0"/>
+  <testcase name="testGetScoreDecreaseModifier()" classname="inkball.LevelTest" time="0.0"/>
+  <testcase name="testGetLayoutFile()" classname="inkball.LevelTest" time="0.0"/>
+  <testcase name="testConstructorInitializesLevelCorrectly()" classname="inkball.LevelTest" time="0.0"/>
+  <system-out><![CDATA[Error: Level index out of bounds.
+]]></system-out>
+  <system-err><![CDATA[Error: Invalid ball colour: invalid
+]]></system-err>
+</testsuite>

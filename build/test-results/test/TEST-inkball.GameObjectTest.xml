@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inkball.GameObjectTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-01-09T08:47:29" hostname="falgurt" time="0.005">
+  <properties/>
+  <testcase name="testDraw()" classname="inkball.GameObjectTest" time="0.001"/>
+  <testcase name="testGetX()" classname="inkball.GameObjectTest" time="0.0"/>
+  <testcase name="testGetY()" classname="inkball.GameObjectTest" time="0.0"/>
+  <testcase name="testSetX()" classname="inkball.GameObjectTest" time="0.001"/>
+  <testcase name="testSetY()" classname="inkball.GameObjectTest" time="0.0"/>
+  <testcase name="testSetSprite()" classname="inkball.GameObjectTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inkball.LineTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-01-09T08:47:30" hostname="falgurt" time="0.005">
+  <properties/>
+  <testcase name="testIsCollidingWithBall_True()" classname="inkball.LineTest" time="0.001"/>
+  <testcase name="testRemoveLineIfCollidingWithBall_DoesNotRemoveLine()" classname="inkball.LineTest" time="0.001"/>
+  <testcase name="testGetSegments()" classname="inkball.LineTest" time="0.0"/>
+  <testcase name="testDraw()" classname="inkball.LineTest" time="0.0"/>
+  <testcase name="testAddSegment()" classname="inkball.LineTest" time="0.001"/>
+  <testcase name="testIsCollidingWithBall_False()" classname="inkball.LineTest" time="0.0"/>
+  <testcase name="testRemoveLineIfCollidingWithBall_RemovesLine()" classname="inkball.LineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

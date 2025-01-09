@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inkball.LineSegmentTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-01-09T08:47:30" hostname="falgurt" time="0.002">
+  <properties/>
+  <testcase name="testGetEndX()" classname="inkball.LineSegmentTest" time="0.0"/>
+  <testcase name="testGetEndY()" classname="inkball.LineSegmentTest" time="0.0"/>
+  <testcase name="testDrawCallsPAppletMethods()" classname="inkball.LineSegmentTest" time="0.0"/>
+  <testcase name="testGetStartX()" classname="inkball.LineSegmentTest" time="0.0"/>
+  <testcase name="testGetStartY()" classname="inkball.LineSegmentTest" time="0.0"/>
+  <testcase name="testConstructorInitializesCorrectly()" classname="inkball.LineSegmentTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

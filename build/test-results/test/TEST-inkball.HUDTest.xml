@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inkball.HUDTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-01-09T08:47:29" hostname="falgurt" time="0.017">
+  <properties/>
+  <testcase name="testDrawBallQueue()" classname="inkball.HUDTest" time="0.004"/>
+  <testcase name="testDrawTopBar()" classname="inkball.HUDTest" time="0.002"/>
+  <testcase name="testGetBallImageInvalidColour()" classname="inkball.HUDTest" time="0.002"/>
+  <testcase name="testUpdateBallsToSpawn()" classname="inkball.HUDTest" time="0.001"/>
+  <testcase name="testDrawTopBarWithZeroTimeToSpawn()" classname="inkball.HUDTest" time="0.002"/>
+  <testcase name="testGetBallImageValidColour()" classname="inkball.HUDTest" time="0.001"/>
+  <testcase name="testDrawTopBarWithTimeUpState()" classname="inkball.HUDTest" time="0.002"/>
+  <testcase name="testConstructorInitializesCorrectly()" classname="inkball.HUDTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Error: Invalid ball colour: invalidColour
+]]></system-err>
+</testsuite>
