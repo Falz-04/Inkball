@@ -9,9 +9,6 @@ The game utilizes Java's graphical libraries for rendering and user interaction.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Features](#game-features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
@@ -56,13 +53,3 @@ Once the game is running, use the following controls:
 - Match the colours of the balls to the holes to score points, else points will be lost.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Java and its graphical libraries for making the game possible.
-- Any resources or tutorials that helped in the development of this project.
-
----
